@@ -1,0 +1,1 @@
+-I"D:/My_code/Cpp/OOP/snake-game/_deps/sfml-src/include" -I"D:/My_code/Cpp/OOP/snake-game/_deps/sfml-src/src" -isystem "D:/My_code/Cpp/OOP/snake-game/_deps/sfml-src/extlibs/headers/minimp3" -isystem "D:/My_code/Cpp/OOP/snake-game/_deps/sfml-src/extlibs/headers/AL" -isystem "D:/My_code/Cpp/OOP/snake-game/_deps/sfml-src/extlibs/headers"

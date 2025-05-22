@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/sfSnake.dir/sources/Button.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/Button.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/DifficultyScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/DifficultyScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/Fruit.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/Fruit.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/Game.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/Game.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/GameOverScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/GameOverScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/GameScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/GameScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/HelpScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/HelpScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/MenuScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/MenuScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/MiniGameScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/MiniGameScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/PauseScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/PauseScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/Screen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/Screen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/SettingsScreen.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/SettingsScreen.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/Snake.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/Snake.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/SnakeNode.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/SnakeNode.cpp.obj.d"
+  "CMakeFiles/sfSnake.dir/sources/main.cpp.obj"
+  "CMakeFiles/sfSnake.dir/sources/main.cpp.obj.d"
+  "D:/My_code/Cpp/OOP/snake-game/Cpp/OOP/sfsnake/libsfSnake.dll.a"
+  "sfSnake.exe"
+  "sfSnake.exe.manifest"
+  "sfSnake.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/sfSnake.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
